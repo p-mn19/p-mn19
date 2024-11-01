@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-mn19&label=Profile%20views&color=0e75b6&style=flat" alt="p-mn19" /> </p>
 
-- 🔭 I’m currently working on **AI to do list for students**
-
 - 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **poornimamen2019@gmail.com**
