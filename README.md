@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Poornima Menon</h1>
-<h3 align="center">19 year old AI engineering student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-mn19&label=Profile%20views&color=0e75b6&style=flat" alt="p-mn19" /> </p>
 
